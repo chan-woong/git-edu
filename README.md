@@ -1,4 +1,4 @@
-# get-edu
+# git-edu
 
 ## test1
 test111
